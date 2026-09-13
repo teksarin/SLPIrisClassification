@@ -1,9 +1,5 @@
 # Single Layer Perceptron — Klasifikasi Biner Iris
 
-Tugas 1 mata kuliah Deep Learning. Implementasi Single Layer Perceptron dari nol menggunakan
-NumPy (tanpa framework deep learning) untuk membedakan *Iris-setosa* dan *Iris-versicolor*,
-sebagai replikasi perhitungan manual yang dibuat di Google Sheets.
-
 **Nama:** Adzrha Auryn Alius
 **NIM:** 24/533582/PA/22594
 
