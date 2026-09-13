@@ -26,7 +26,7 @@
 
 ## Dataset
 
-`dataset/data_iris.csv` memuat 100 baris dari dataset Iris, dibatasi pada dua kelas pertama yaitu Iris-setosa dan Iris-versicolor
+`dataset/data_iris.csv` memuat 100 baris dari dataset Iris, dibatasi pada dua kelas yaitu Iris-setosa dan Iris-versicolor
 
 Encoding label (setosa = 0, versicolor = 1) dan pembagian data dilakukan di dalam notebook:
 40 baris pertama tiap kelas menjadi data training, 10 baris sisanya menjadi data validasi.
@@ -43,7 +43,7 @@ identik dengan tab *Data Training* dan *Data Validation* pada spreadsheet.
 | Loss | Squared error, dirata-rata per epoch (MSE) |
 | Optimizer | Stochastic gradient descent, update tiap sampel |
 | Learning rate | 0.1 |
-| Bobot awal | bias dan theta1-theta4 = 0.5 |
+| Bobot awal | bias dan theta1 hingga theta4 = 0.5 |
 | Jumlah epoch | 5 |
 
 ## Hasil
